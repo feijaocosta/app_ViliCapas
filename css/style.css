@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-family: Verdana;
+}
+
+#frete{
+	color: white;
+	margin: 0px auto;
+}
+
+#barratop{
+	background-color: black;	
+	height: 80px;
+}
+
+/*
+div{
+	border: thin dotted red;	
+}
+*/
+
+#botaomenu{
+	padding: 0px;
+}
+
+#logo{
+	padding: 0px;	
+}
+
+#botaopesquisa{
+	padding: 0px;
+}
+
+#botaocarrinho{
+	padding: 0px;	
+}
+
+.bannertarja{	
+	left:0;
+	bottom:0;
+	height:75px;
+	width:100%;
+}
+	
+.preco{
+	color: deeppink;
+}
+
+.produtos{
+	text-align: center;	
+}
+
+.titulo{
+	text-align: center;
+	color: deeppink;
+	font-size: 25px;
+	
+}
+
+.menu{
+	background-color: black;
+}
+
+.navbar-toggler{
+	padding: 0px;
+	width: 41px;
+	height: 60px;
+}
+
+.navbar-toggler img{
+	padding: 0px;
+	width: 41px;
+	height: 60px;
+}
+
+.navbar-brand{
+	margin: 0px;
+}
+
+.form-control{
+	width: 200px !important;
+	margin-right: 10px;
+}
+
+.pesquisamenu img{
+	width: 35px;
+	height: 40px;
+}
+
+.rodape{
+	background-color: black;
+	height: auto;
+	width: auto;
+	color: white;
+}
+
+
+.menusite{
+	background-color: black;
+	color: white;
+}
+
+.logo{
+	background-color: blueviolet;
+}
+
